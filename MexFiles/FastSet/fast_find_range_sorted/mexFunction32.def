@@ -1,0 +1,4 @@
+LIBRARY fast_find_range_sorted.mexw32
+; DESCRIPTION "MatLab FastSet toolbox by Dr. Lev Muchnik"
+EXPORTS
+	mexFunction

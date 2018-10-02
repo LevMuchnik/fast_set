@@ -1,0 +1,4 @@
+LIBRARY fast_intersect_sorted.mexw64
+; DESCRIPTION "MatLab FastSet toolbox by Dr. Lev Muchnik"
+EXPORTS
+	mexFunction
